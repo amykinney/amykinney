@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @amykinney
-- 👀 I’m interested in rock climbing, chai lattes, and baking!
-- 🌱 I’m currently learning Javascript!
+- 👋 Hello hello! My name is Amy! I am an incoming 3rd year student at Indiana University studying Informatics with a cognate in business. After my graduation in May 2025, I will be a candidate for receiving my Master of Science in Information Systems!
+- 👀 I’m interested in rock climbing, chai lattes, and baking sourdough bread!
+- 🌱 I’m currently learning Javascript, UI/UX skills, and AWS!
 - 📫 How to reach me: my Linkedin!
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I have double jointed elbows!
+- ⚡ Fun fact: I have double jointed elbows and a very cute cat (see my profile picture)!
 
 <!---
 amykinney/amykinney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
